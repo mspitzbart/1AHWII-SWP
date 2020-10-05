@@ -1,6 +1,6 @@
 h1{ 
     /* Alle h1-Elemente stylen */
     /* Unteren Rand 1ps breit, strichliert und schwarz zeichnen */
-    border-bottom: 5px dashed green;
+    border-bottom: 5px dashed blueviolet;
 
 }
